@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.parkinglot.ParkingLotTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-03-31T17:22:35" hostname="admins-MacBook-Pro.local" time="0.028">
+  <properties/>
+  <testcase name="shouldNotParkTheCarWhenTheCarIsAlreadyParked()" classname="com.thoughtworks.parkinglot.ParkingLotTest" time="0.018"/>
+  <testcase name="shouldParkACarWhenSpaceIsAvailable()" classname="com.thoughtworks.parkinglot.ParkingLotTest" time="0.001"/>
+  <testcase name="shouldNotParkACarWhenSpaceIsNotAvailable()" classname="com.thoughtworks.parkinglot.ParkingLotTest" time="0.001"/>
+  <testcase name="shouldUnparkTheCarWhenCarIsParked()" classname="com.thoughtworks.parkinglot.ParkingLotTest" time="0.001"/>
+  <testcase name="shouldNotifyTheOwnerWhenParkingLotIsFull()" classname="com.thoughtworks.parkinglot.ParkingLotTest" time="0.001"/>
+  <testcase name="shouldNotUnparkTheCarWhenTheCarIsNotParked()" classname="com.thoughtworks.parkinglot.ParkingLotTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
